@@ -1,0 +1,20 @@
+{
+  "codigo": 8,
+  "version": "0.7.0",
+  "codigoMinimo": 0,
+  "apk": "https://github.com/fabio-leyton/apk-tejidos-versiones/releases/download/v0.7.0/tejidos-0.7.0.apk",
+  "sha256": "85e06d40a5b7b3a6ac658669e5beb878e7faef5ac05accf07123409662803392",
+  "notas": {
+    "version": "0.7.0",
+    "codigo": 8,
+    "fecha": "2026-10-21",
+    "obligatoria": false,
+    "novedades": [
+      "La app avisa cuando hay una versión nueva y se actualiza desde ella misma.",
+      "Después de actualizar se muestra lo nuevo de la versión.",
+      "En Perfil: buscar actualizaciones y ver las novedades de todas las versiones."
+    ],
+    "mejoras": [],
+    "correcciones": []
+  }
+}
