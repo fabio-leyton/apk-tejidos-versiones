@@ -1,18 +1,20 @@
 {
-  "codigo": 9,
-  "version": "0.7.1",
+  "codigo": 10,
+  "version": "0.7.2",
   "codigoMinimo": 0,
-  "apk": "https://github.com/fabio-leyton/apk-tejidos-versiones/releases/download/v0.7.1/tejidos-0.7.1.apk",
-  "sha256": "85273466c61c748f9bb70b96d28e545b24de3a78ab47d63fc92bb20180031562",
+  "apk": "https://github.com/fabio-leyton/apk-tejidos-versiones/releases/download/v0.7.2/tejidos-0.7.2.apk",
+  "sha256": "6a2b807e0afab34fd2472e3e987f2f8ed75a186a01d8f27a39857d8dbd2743c9",
   "notas": {
-    "version": "0.7.1",
-    "codigo": 9,
+    "version": "0.7.2",
+    "codigo": 10,
     "fecha": "2026-10-22",
     "obligatoria": false,
-    "novedades": [],
-    "mejoras": [],
-    "correcciones": [
-      "La pantalla de una pieza sin pasos ya dice hileras, vueltas o pasadas según la técnica."
-    ]
+    "novedades": [
+      "Fotos del paso: al crear o editar un paso puedes tomar fotos o elegir varias de la galería."
+    ],
+    "mejoras": [
+      "Cada paso de la lista muestra siempre el botón para agregarle fotos."
+    ],
+    "correcciones": []
   }
 }
