@@ -1,20 +1,20 @@
 {
-  "codigo": 10,
-  "version": "0.7.2",
-  "codigoMinimo": 0,
-  "apk": "https://github.com/fabio-leyton/apk-tejidos-versiones/releases/download/v0.7.2/tejidos-0.7.2.apk",
-  "sha256": "6a2b807e0afab34fd2472e3e987f2f8ed75a186a01d8f27a39857d8dbd2743c9",
+  "codigo": 11,
+  "version": "0.7.3",
+  "codigoMinimo": 11,
+  "apk": "https://github.com/fabio-leyton/apk-tejidos-versiones/releases/download/v0.7.3/tejidos-0.7.3.apk",
+  "sha256": "aa3c5fef0f4e1510b19f5e37d8cc73dfa275ff66300fa6698daff0f9efa0d0a5",
   "notas": {
-    "version": "0.7.2",
-    "codigo": 10,
-    "fecha": "2026-10-22",
-    "obligatoria": false,
-    "novedades": [
-      "Fotos del paso: al crear o editar un paso puedes tomar fotos o elegir varias de la galería."
-    ],
+    "version": "0.7.3",
+    "codigo": 11,
+    "fecha": "2026-10-23",
+    "obligatoria": true,
+    "novedades": [],
     "mejoras": [
-      "Cada paso de la lista muestra siempre el botón para agregarle fotos."
+      "En el editor del paso se puede agregar la misma foto más de una vez."
     ],
-    "correcciones": []
+    "correcciones": [
+      "La app ya no se cierra al guardar un paso con fotos ni al abrir una pieza con pasos."
+    ]
   }
 }
